@@ -95,6 +95,7 @@ public class MainActivity extends AppCompatActivity {
         next.setVisibility(View.VISIBLE);
         trueAns.setVisibility(View.VISIBLE);
         falseAns.setVisibility(View.VISIBLE);
+        score = 0;
     }
 
     private void makeQuizAndQuestions() {
