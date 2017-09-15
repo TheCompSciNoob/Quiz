@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="beard_question">Mr. Shorr has a beard</string>
+    <string name="kenneth_question">Kenneth likes flying drones</string>
+    <string name="flat_earth_question">The earth is flat</string>
+    <string name="russian_reversal_question">In America you can always find the party; in Soviet Russia the party always finds you</string>
+</resources>
