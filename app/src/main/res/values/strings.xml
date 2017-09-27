@@ -6,4 +6,6 @@
     <string name="kenneth_question">Kenneth likes flying drones</string>
     <string name="flat_earth_question">The earth is flat</string>
     <string name="russian_reversal_question">In America you can always find the party; in Soviet Russia the party always finds you</string>
+    <string name="play_again">Play Again</string>
+    <string name="next">Next</string>
 </resources>

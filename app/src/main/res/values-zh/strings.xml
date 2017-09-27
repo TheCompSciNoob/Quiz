@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="beard_question">小李老母飛刀</string>
+    <string name="flat_earth_question">貧僧乃少林寺方丈，法號夢遺。阿彌陀佛，我隨風而來，隨風而去...</string>
+    <string name="False">不正確</string>
+    <string name="True">正確</string>
+    <string name="kenneth_question">做人如果沒夢想，那跟鹹魚有什麼分別啊？</string>
+    <string name="russian_reversal_question">"哇呀呀呀呀~~~好！實不相瞞，小弟我就是人稱玉樹臨風勝潘安，一支梨花壓海棠的小淫蟲周伯通！ "</string>
+    <string name="play_again">再玩過</string>
+    <string name="next">下一條</string>
+</resources>
